@@ -4,6 +4,7 @@ import 'package:memoria/theme.dart';
 class Logo extends StatelessWidget {
   const Logo({Key? key}) : super(key: key);
 
+  @override
   Widget build(BuildContext context) {
     return Column(
       children: [
