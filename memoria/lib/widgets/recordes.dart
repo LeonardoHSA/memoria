@@ -42,12 +42,12 @@ class _RecordesState extends State<Recordes> {
             ListTile(
               title: const Text('Modo Normal'),
               trailing: const Icon(Icons.chevron_right),
-              onTap: showRecordes(Modo.normal),
+              onTap: () => showRecordes(Modo.normal),
             ),
             ListTile(
               title: const Text('Modo Insano'),
               trailing: const Icon(Icons.chevron_right),
-              onTap: showRecordes(Modo.insano),
+              onTap: () => showRecordes(Modo.insano),
             ),
           ],
         ),

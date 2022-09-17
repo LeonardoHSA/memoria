@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:memoria/constants.dart';
 
 class RecordesPage extends StatelessWidget {
   final Modo modo;
@@ -12,6 +13,10 @@ class RecordesPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold();
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text('Recordes'),
+      ),
+    );
   }
 }

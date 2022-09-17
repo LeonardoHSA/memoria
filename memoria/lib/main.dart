@@ -21,5 +21,5 @@ class MyApp extends StatelessWidget {
   }
 }
 
-// Parou no vídeo em 27:00
+// Parou no vídeo em 33:48
 // link: https://www.youtube.com/watch?v=hU8ht030JUM&list=PL_wKlpKIC9vVOZxwQyNzuD1lL9cJgPiiE
