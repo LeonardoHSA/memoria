@@ -1,7 +1,7 @@
 # MEMEMORIA 🎲
 
 ## 🚀 Conhecendo o aplicativo
-O Memoria é um jogo de memória com as imagens de memes famosos. Ou seja: além de testar a sua memória, você também dá risadas e descobre novos memes!
+O Mememoria é um jogo de memória com as imagens de memes famosos. Ou seja: além de testar a sua memória, você também dá risadas e descobre novos memes!
 
 ## 📋 Pré-requisitos
 - Para executar o programa no seu PC e posteriormente em seu celular, é necessário ter os softwares citados em **Instalação**
