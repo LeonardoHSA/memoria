@@ -1,4 +1,4 @@
-# MEMORIA 🎲
+# MEMEMORIA 🎲
 
 ## 🚀 Conhecendo o aplicativo
 O Memoria é um jogo de memória com as imagens de memes famosos. Ou seja: além de testar a sua memória, você também dá risadas e descobre novos memes!
