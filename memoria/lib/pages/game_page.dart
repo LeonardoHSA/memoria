@@ -1,5 +1,3 @@
-import 'dart:math';
-
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
 import 'package:memoria/game_settings.dart';
@@ -18,6 +16,7 @@ class GamePage extends StatelessWidget {
 
   const GamePage({Key? key, required this.gamePlay}) : super(key: key);
 
+  @override
   Widget build(BuildContext context) {
     final controller = Provider.of<GameController>(context);
     return Scaffold(

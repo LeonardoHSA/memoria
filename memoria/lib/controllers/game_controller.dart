@@ -1,7 +1,6 @@
 import 'package:memoria/game_settings.dart';
 import 'package:memoria/models/game_play.dart';
 import 'package:memoria/repositories/recordes_repository.dart';
-import 'package:memoria/widgets/card_game.dart';
 import 'package:mobx/mobx.dart';
 
 import '../constants.dart';
