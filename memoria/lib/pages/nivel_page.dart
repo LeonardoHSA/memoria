@@ -10,6 +10,7 @@ class NivelPage extends StatelessWidget {
 
   const NivelPage({Key? key, required this.modo}) : super(key: key);
 
+  @override
   Widget build(BuildContext context) {
     final niveis = GameSettings.niveis
         .map((n) => CardNivel(gamePlay: GamePlay(modo: modo, nivel: n)))

@@ -22,6 +22,7 @@ class CardNivel extends StatelessWidget {
     );
   }
 
+  @override
   Widget build(BuildContext context) {
     return InkWell(
       onTap: () => startGame(context),

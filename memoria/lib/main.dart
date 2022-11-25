@@ -1,11 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
-import 'package:hive/hive.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:memoria/controllers/game_controller.dart';
 import 'package:memoria/repositories/recordes_repository.dart';
 import 'package:memoria/theme.dart';
-import 'package:memoria/widgets/recordes.dart';
 import 'package:provider/provider.dart';
 import 'home_page.dart';
 
